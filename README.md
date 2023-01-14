@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Interested in Web Development and Cyber security
 ------------------------------------------------
 
-I've been learning to code from 3 years and developed the interest in web development and created few small project in front end development with HTML and CSS; Enthusiastic in learning Cyber security further.
+I've been my coding journey from 2020 and developed the interest in web development and created few small project in front end development with HTML and CSS; Enthusiastic in learning Cyber security further.
 
 * 🌍  I'm based in Surat , India
 * ✉️  You can contact me at [devmodi777@gmail.com](mailto:devmodi777@gmail.com)
