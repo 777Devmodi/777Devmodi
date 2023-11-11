@@ -8,7 +8,7 @@ I've been my coding journey from 2020 and developed the interest in web developm
 
 * 🌍  I'm based in Surat , India
 * ✉️  You can contact me at [devmodi777@gmail.com](mailto:devmodi777@gmail.com)
-* 🧠  I'm learning PHP for backend
+* 🧠  I'm learning Nodejs for backend and creating API's
 
 ### Skills
 
